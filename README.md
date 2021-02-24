@@ -1,16 +1,17 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/Joshoa.png">
 
-<!--
-**Joshoa/Joshoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Marcos Joshoa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fala galera, blzinha? 🤙
+Sou desenvolvedor com experiência em desenvolvimento nativo móvel para Android, iOS e também com Java Web.
+Sou formado em Ciência da Computação pela UFPI :computer:
+
+ :envelope:  &nbsp; Trabalho atualmente na **convite.in**
+ <br/> :muscle: &nbsp; Busco colaborar com projetos em Front-end usando React, mobile usando Swift, React Native ou Flutter e em projetos Java Web.
+ <br/> :v: &nbsp; Posso ajudar com Swift e Java Web
+ <br/> :computer: &nbsp; Stack: Swift, Java e ReactJS
+ <br/> 💬  &nbsp; Sobre: Curto tecnologias, games CS:GO, LoL e seriados no Netflix, além de praticar esportes.
+ <br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-MarcosJoshoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrmjop/)](https://www.linkedin.com/in/mrmjop/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-joshoa986@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshoa986@gmail.com)](mailto:joshoa986@gmail.com)
