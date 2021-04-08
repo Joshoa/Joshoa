@@ -4,7 +4,7 @@
 # Marcos Joshoa
 
 ## Fala galera, blzinha? 🤙
-Sou desenvolvedor com experiência em iOS, Android e também com Java Web.
+Sou engenheiro de software com experiência em iOS, Android e também com Java Web.
 Sou formado em Ciência da Computação pela UFPI :computer:
 
  :envelope:  &nbsp; Trabalho atualmente na **convite.in**
