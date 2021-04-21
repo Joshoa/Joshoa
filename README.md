@@ -3,15 +3,15 @@
 
 # Marcos Joshoa
 
-## Fala galera, blzinha? 🤙
-Sou engenheiro de software com experiência em iOS, Android e também com Java Web.
-Sou formado em Ciência da Computação pela UFPI :computer:
+## Hi everyone, how it's going? 🤙
+I'm a software engineer with experience in mobile native development for iOS, Android and also Java Web.
+I'm graduating in Computer Science from UFPI :computer:
 
- :envelope:  &nbsp; Trabalho atualmente na **convite.in**
- <br/> :muscle: &nbsp; Busco colaborar com projetos em Front-end usando React, mobile usando Swift, React Native ou Flutter e em projetos Java Web.
- <br/> :v: &nbsp; Posso ajudar com Swift e Java Web
+ :envelope:  &nbsp; Work at **convite.in**
+ <br/> :muscle: &nbsp; I seek to collaborate with projects in Front-end using React, mobile using Swift, React Native or Flutter and in Java Web projects.
+ <br/> :v: &nbsp; I can be useful with Swift and Java Web
  <br/> :computer: &nbsp; Stack: Swift, Java e ReactJS
- <br/> 💬  &nbsp; Sobre: Curto tecnologias, games CS:GO, LoL e seriados no Netflix, além de praticar esportes.
- <br/> :email: &nbsp; Contato: [![Linkedin Badge](https://img.shields.io/badge/-MarcosJoshoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrmjop/)](https://www.linkedin.com/in/mrmjop/) 
+ <br/> 💬  &nbsp; About: I like technologies, games CS: GO, LoL and series on Netflix, besides playing sports.
+ <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-MarcosJoshoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrmjop/)](https://www.linkedin.com/in/mrmjop/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-joshoa986@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshoa986@gmail.com)](mailto:joshoa986@gmail.com)
