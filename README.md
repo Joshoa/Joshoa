@@ -5,7 +5,7 @@
 
 ## Hi everyone, how it's going? 🤙
 I'm a software engineer with experience in mobile native development for iOS, Android and also Java Web.
-I'm graduating in Computer Science from UFPI :computer:
+I'm B.Sc. in Computer Science from UFPI :computer:
 
  :envelope:  &nbsp; Work at **convite.in**
  <br/> :muscle: &nbsp; I seek to collaborate with projects in Front-end using React, mobile using Swift, React Native or Flutter and in Java Web projects.
