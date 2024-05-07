@@ -14,4 +14,4 @@ I'm B.Sc. in Computer Science from UFPI :computer:
  <br/> 💬  &nbsp; About: I like technologies, games CS: GO, LoL and series on Netflix, besides playing sports.
  <br/> :email: &nbsp; Contact: [![Linkedin Badge](https://img.shields.io/badge/-MarcosJoshoa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrmjop/)](https://www.linkedin.com/in/mrmjop/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-joshoa986@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshoa689@gmail.com)](mailto:joshoa689@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joshoa689@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshoa689@gmail.com)](mailto:joshoa689@gmail.com)
